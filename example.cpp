@@ -8,7 +8,7 @@ for(int valid_index:indices){
         tmp_objects.push_back(objects[valid_index]);
     }
 }
- 
+// test_github
 #ifdef merge_nms
 double merge_iou_thresold = 0.6;
 
